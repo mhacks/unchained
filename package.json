@@ -30,7 +30,7 @@
         "autoprefixer": "^9.6.1",
         "aws-sdk": "^2.503.0",
         "babel-loader": "^8.0.6",
-        "bcrypt": "^3.0.6",
+        "bcrypt": "^5.0.0",
         "body-parser": "^1.19.0",
         "cachegoose": "^8.0.0",
         "clean-webpack-plugin": "^3.0.0",
